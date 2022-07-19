@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images-Wheel</folder>
+	<filename>IMG_20190101_114858.jpg</filename>
+	<path>/home/bhavya/Desktop/labelIMG/Images-Wheel/IMG_20190101_114858.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>461</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unaligned_wheel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>38</ymin>
+			<xmax>352</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

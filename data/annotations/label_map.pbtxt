@@ -1,0 +1,9 @@
+item {
+    id: 1
+    name: 'aligned_wheel'
+}
+
+item {
+    id: 2
+    name: 'unaligned_wheel'
+}

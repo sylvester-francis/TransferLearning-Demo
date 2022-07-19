@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drive-download-20190215T043621Z-001</folder>
+	<filename>IMG_20190101_114759.jpg</filename>
+	<path>C:\Users\kiran\Downloads\Compressed\drive-download-20190215T043621Z-001\IMG_20190101_114759.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>461</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aligned_wheel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>50</ymin>
+			<xmax>257</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>
